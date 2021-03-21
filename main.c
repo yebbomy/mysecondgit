@@ -5,6 +5,9 @@ int compare(int a, int b){
 	else return 0;
 }
 
+void nothing(void){
+}
+
 int main(void){
 	printf("hello world\n");
 	return 0;
